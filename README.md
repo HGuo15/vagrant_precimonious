@@ -1,6 +1,6 @@
 # vagrant_precimonious
 a vagrant box for precimonious
 
-run:
-vagrant up
-vagrant ssh
+run:/n
+vagrant up/n
+vagrant ssh/n
