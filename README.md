@@ -1,13 +1,13 @@
 # vagrant_precimonious
 a vagrant box for precimonious
 
-Prerequisites
----------------------------------------
-To use vagrant_precimonious, vagrant and virtual box are required to be installed first.
-1 install vagrant: https://www.vagrantup.com/downloads.html
-2 install virtual box:  https://www.virtualbox.org/wiki/Downloads
+Prerequisites  
+---------------------------------------  
+To use vagrant_precimonious, vagrant and virtual box are required to be installed first.  
+1 install vagrant: https://www.vagrantup.com/downloads.html  
+2 install virtual box:  https://www.virtualbox.org/wiki/Downloads  
 
-Usage
+Usage  
 --------------------------------------
 1 Create a directory named vagrant_precimonious:
   mkdir vagrant_precimonious
