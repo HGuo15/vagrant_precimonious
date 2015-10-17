@@ -7,6 +7,7 @@ To use vagrant_precimonious, vagrant and virtual box are required to be installe
 1 install vagrant: https://www.vagrantup.com/downloads.html  
 2 install virtual box:  https://www.virtualbox.org/wiki/Downloads  
 
+
 Usage  
 --------------------------------------  
 1 Create a directory named vagrant_precimonious:  
