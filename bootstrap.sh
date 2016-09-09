@@ -12,33 +12,24 @@ install 'git' git
 ### Updating gcc
 
 sudo apt-get install python-software-properties
-
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
-
 sudo apt-get update
-
 sudo apt-get install gcc-4.8
-
 sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.8 50
 
 
 ### Updating g++
 
 sudo apt-get install g++-4.8
-
 sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-4.8 50
 
 
 ### Downloading llvm 3.0 binaries
 
 cd $HOME
-
 wget http://llvm.org/releases/3.0/clang+llvm-3.0-x86_64-linux-Ubuntu-11_10.tar.gz
-
 tar -xzvf clang+llvm-3.0-x86_64-linux-Ubuntu-11_10.tar.gz
-
 mv clang+llvm-3.0-x86_64-linux-Ubuntu-11_10 llvm-3.0
-
 rm -f clang+llvm-3.0-x86_64-linux-Ubuntu-11_10.tar
 
 
