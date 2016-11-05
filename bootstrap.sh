@@ -24,6 +24,10 @@ sudo apt-get install g++-4.8
 sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-4.8 50
 
 
+### installing emacs
+sudo apt-get -y install emacs23
+
+
 ### Downloading llvm 3.0 binaries
 
 cd $HOME
